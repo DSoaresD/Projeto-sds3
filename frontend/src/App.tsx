@@ -1,9 +1,9 @@
 import Routs from "Routs";
 
-function App() {
+export default function App() {
   return (
     <Routs/>
   );
 }
 
-export default App;
+
