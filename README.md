@@ -2,7 +2,7 @@
 
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="site dsvendas" title="#site dsvendas" src="assets/dashboard.PNG" width=360px/>
+    <img alt="site dsvendas" title="#site dsvendas" src="assets/dashboard.png" width=360px/>
 </h1>
 
 🌎 **Acesse agora:**
