@@ -42,7 +42,7 @@ A aplicação consiste em exibir um dashboard a partir de dados fornecidos por u
 - **Axios**
 - **Postman**
 - **VSCode**
-- **Intellij Ideia**
+- **STS**
 
 <br />
 
