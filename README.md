@@ -48,8 +48,7 @@ A aplicação consiste em exibir um dashboard a partir de dados fornecidos por u
 
 ### 💎 Autor
 
-<img style="border-radius: 40px" src="https://avatars.githubusercontent.com/u/56098033?v=4" width="100px;" alt="Daniel"/>
-<sub><strong>Deyvison Uchoao</strong></sub></a>
+<h2>Daniel Soares</h2>
 
 <br/>
 <br/>
