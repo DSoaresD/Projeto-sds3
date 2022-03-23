@@ -48,7 +48,7 @@ A aplicação consiste em exibir um dashboard a partir de dados fornecidos por u
 
 ### 💎 Autor
 
-    **Daniel Soares**
+    <h4>Daniel Soares</h4>
 
 <br/>
 <br/>
